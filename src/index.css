@@ -83,7 +83,7 @@ All colors MUST be HSL.
 }
 
 @utility bg-banner {
-  background-image: url("/Portfolio/images/banner.webp");
+  background-image: url("/images/banner.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

@@ -5,7 +5,7 @@ import Index from "./pages/Index";
 const App = () => (
       <BrowserRouter>
         <Routes>
-          <Route path="/Portfolio" element={<Index />} />
+          <Route path="/" element={<Index />} />
         </Routes>
       </BrowserRouter>
 );
