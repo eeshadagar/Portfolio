@@ -184,7 +184,7 @@ const DesktopInterface = () => {
               {/* Sticker and Folder Container */}
               <div className="relative flex justify-center">
                 {/* Navigation Folders */}
-                <div className="m-6 bg-white/20 rounded-2xl">
+                <div className="m-6 bg-white/40 rounded-2xl">
                   <div className="grid grid-cols-2 gap-4 w-48 h-fit max-w-sm sm:max-w-lg bg-white/10 backdrop-blur-sm rounded-lg shadow-lg p-4 mx-auto">
                     {desktopItems.map((item) => (
                       <div
@@ -225,7 +225,7 @@ const DesktopInterface = () => {
                   className="flex flex-col items-center justify-center cursor-pointer transform hover:scale-105 transition-all duration-300"
                   onClick={() => openFolderHandler(item.id)}
                 >
-                  <div className="hover:bg-white/5 rounded-lg w-full aspect-square flex items-center justify-center">
+                  <div className="hover:bg-white/40 rounded-lg w-full aspect-square flex items-center justify-center">
                     <img src={`${import.meta.env.BASE_URL}images/icons/folder-icon.webp`} className="w-8" />
                   </div>
                   <span className="text-navy font-semibold text-xs text-center">
@@ -245,7 +245,7 @@ const DesktopInterface = () => {
           <div className="rounded-2xl overflow-hidden">
             <DashboardWidget onOpen={() => setOpen(true)} />
           </div>
-          <div className='flex flex-row gap-6'>
+          <div className='flex flex-row mx-5 justify-between'>
             {/* clock */}
             <img src={`${import.meta.env.BASE_URL}images/sticker.webp`} className="w-32" />
             {/* Certificates Widget */}

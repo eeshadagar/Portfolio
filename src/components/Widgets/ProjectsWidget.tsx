@@ -129,7 +129,7 @@ export default function ProjectsWidget() {
   const currentProject = projects[currentIndex];
 
   return (
-    <div className="bg-white/20 backdrop-blur-md rounded-3xl shadow-lg overflow-visible max-w-sm mx-auto relative border border-white/20">
+    <div className="bg-white/40 backdrop-blur-md rounded-3xl shadow-lg overflow-visible max-w-sm mx-auto relative border border-white/20">
         {/* Compact Header */}
         <div className="relative">
         <div

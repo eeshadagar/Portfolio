@@ -32,7 +32,7 @@ const SkillsProgressWidget = () => {
       <div className="flex flex-col items-center">
         <div className="relative w-12 h-12 mb-2">
           {/* Glassmorphism circle background */}
-          <div className="absolute inset-0 bg-white/5 backdrop-blur-sm rounded-full border border-white/10"></div>
+          <div className="absolute inset-0 bg-white/40 backdrop-blur-sm rounded-full border border-white/10"></div>
           
           <svg className="w-12 h-12 transform -rotate-90 relative z-10" viewBox="0 0 48 48">
             {/* Background circle */}

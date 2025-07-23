@@ -88,7 +88,7 @@ const WorkExperiencePlayer = () => {
     <div className="flex items-center justify-center">
       <div className="w-80 relative cursor-pointer">
         {/* Main Player Container - Glassmorphism */}
-        <div className="bg-white/5 backdrop-blur-sm rounded-full border border-white/10 rounded-lg p-3 shadow-xl">
+        <div className="bg-white/40 backdrop-blur-sm rounded-full border border-white/10 rounded-lg p-3 shadow-xl">
           
           {/* Header */}
           <div

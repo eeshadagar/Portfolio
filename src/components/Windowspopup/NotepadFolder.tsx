@@ -268,7 +268,7 @@ export default function NotesApp({ onClose }: { onClose: () => void }) {
   }
 
   return (
-    <div className="fixed m-10 h-fit w-fit sm:left-1/2 sm:-translate-x-1/2 bg-white/60 backdrop-blur-md border border-white/30 rounded-xl sm:w-[1200px] max-w-full shadow-2xl max-h-[90vh] overflow-hidden">
+    <div className="fixed m-10 h-fit w-fit sm:left-1/2 sm:-translate-x-1/2 bg-white/60 backdrop-blur-md border border-white/30 rounded-xl sm:w-[1100px] max-w-full shadow-2xl max-h-[90vh] overflow-hidden">
       {/* Window Header */}
       <div className="bg-gray-200/80 px-4 py-2 flex items-center justify-between border-b border-gray-300/50 rounded-t-xl">
         <div className="flex items-center space-x-2">
@@ -405,7 +405,7 @@ export default function NotesApp({ onClose }: { onClose: () => void }) {
             </>
           ) : (
             <div className="flex-1 flex items-center justify-center">
-              <div className="text-center">
+              <div className="text-center mt-10">
                 <div className="w-16 h-16 bg-white/30 backdrop-blur-sm border border-white/20 rounded-full flex items-center justify-center mx-auto mb-4 shadow-lg">
                   <Edit3 className="w-8 h-8 text-gray-600" />
                 </div>

@@ -14,7 +14,7 @@ export default function Dock({
   ];
 
   return (
-    <div className="fixed bottom-4 w-full sm:w-96 left-1/2 transform -translate-x-1/2 flex gap-2 sm:gap-4 bg-black/20 sm:bg-white/20 backdrop-blur-md px-3 sm:px-6 py-1 sm:py-2 rounded-full shadow-lg max-w-[90%] sm:max-w-none">
+    <div className="fixed bottom-4 w-full sm:w-96 left-1/2 transform -translate-x-1/2 flex gap-2 sm:gap-4 bg-black/20 sm:bg-white/40 backdrop-blur-md px-3 sm:px-6 py-1 sm:py-2 rounded-full shadow-lg max-w-[90%] sm:max-w-none">
       {items.map((item) => (
         <button
           key={item.id}

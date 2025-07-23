@@ -62,7 +62,7 @@ export default function DashboardWidget({
   return (
     <button
       onClick={onOpen}
-      className="w-full p-4 bg-white/20 backdrop-blur-lg rounded-2xl shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] border border-white/20 hover:scale-105 transition-transform flex flex-col justify-between"
+      className="w-full p-4 bg-white/40 backdrop-blur-lg rounded-2xl shadow-[0_8px_32px_0_rgba(31,38,135,0.37)] border border-white/20 hover:scale-105 transition-transform flex flex-col justify-between"
     >
       {/* Header */}
       <div className="text-sm text-navy font-semibold flex justify-between mb-1">

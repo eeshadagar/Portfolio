@@ -15,7 +15,7 @@ const ResumeFolder = ({ onClose }: { onClose: () => void }) => {
         </div>
         <div className="flex items-center space-x-2">
           <a href="/your_resume.pdf" download>
-            <button className="px-3 py-1 bg-blue-500/80 backdrop-blur-sm text-white rounded text-sm hover:bg-blue-600/80 transition-colors flex items-center border border-white/30">
+            <button className="sm:px-3 sm:py-1 bg-blue-500/80 mx-2 px-1 backdrop-blur-sm text-white rounded text-xs sm:text-sm hover:bg-blue-600/80 transition-colors flex items-center border border-white/30">
               <Download className="w-3 h-3 mr-1" />
               Download PDF
             </button>
@@ -32,7 +32,7 @@ const ResumeFolder = ({ onClose }: { onClose: () => void }) => {
           {/* Header */}
           <div className="text-center mb-8 pb-6 border-b-2 border-white/30">
             <h1 className="text-4xl font-bold text-gray-900 mb-2">Eesha Dagar</h1>
-            <p className="text-xl text-blue-600 font-semibold mb-4">MCA Student | Aspiring Data Analyst & Full-Stack Developer</p>
+            <p className="text-xl text-blue-600 font-semibold mb-4">MCA Student | Aspiring Data Scientist & AI/ML Enthusiast</p>
             <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-800">
               <div className="flex items-center"><Mail className="w-4 h-4 mr-1" />eesha5950@gmail.com</div>
               <div className="flex items-center"><Phone className="w-4 h-4 mr-1" />+91 7827491307</div>
@@ -56,6 +56,16 @@ const ResumeFolder = ({ onClose }: { onClose: () => void }) => {
           {/* Experience */}
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-gray-900 mb-4 border-b border-white/30 pb-2">Experience</h2>
+            <div className="mb-6">
+              <h3 className="text-lg font-semibold text-gray-900">Data Science Intern</h3>
+              <div className="text-blue-600 font-medium">Datoop Technology Pvt Ltd</div>
+              <div className="flex items-center text-gray-800 text-sm mt-1 mb-2"><Calendar className="w-4 h-4 mr-1" />June 2025 – July 2025</div>
+              <ul className="text-gray-800 text-sm space-y-1 ml-4">
+                <li>• Cleaned and processed customer datasets using Pandas and Scikit-learn, improving model accuracy by 14.2%.</li>
+                <li>• Built ML models for customer segmentation and optimized using cross-validation.</li>
+                <li>• Created KPI dashboards using Power BI and Matplotlib.</li>
+              </ul>
+            </div>
             <div className="mb-6">
               <h3 className="text-lg font-semibold text-gray-900">Data Analyst Intern</h3>
               <div className="text-blue-600 font-medium">Jobizo</div>
