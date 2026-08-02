@@ -1,0 +1,31 @@
+{
+  "username": "eeshadagar",
+  "ranking": 3419405,
+  "totalSolved": 32,
+  "totalQuestions": 4013,
+  "easySolved": 22,
+  "totalEasy": 958,
+  "mediumSolved": 8,
+  "totalMedium": 2095,
+  "hardSolved": 2,
+  "totalHard": 960,
+  "submissionsLastYear": 20,
+  "activeDays": 6,
+  "maxStreak": 2,
+  "updatedAt": "2026-08-02",
+  "recentSolved": [
+    { "title": "Two Sum", "when": "2 months ago" },
+    { "title": "Climbing Stairs", "when": "5 months ago" },
+    { "title": "Single Number", "when": "5 months ago" },
+    { "title": "Find All Numbers Disappeared in an Array", "when": "6 months ago" },
+    { "title": "Missing Number", "when": "6 months ago" }
+  ],
+  "languages": [
+    { "name": "Python3", "solved": 32 },
+    { "name": "Python", "solved": 1 }
+  ],
+  "skills": [
+    { "name": "Backtracking", "count": 2 },
+    { "name": "Quickselect", "count": 1 }
+  ]
+}

@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+
+  body {
+    margin: 0;
+    overflow: hidden; /* the desktop owns the viewport */
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  ::selection {
+    background: #425870; /* slate */
+    color: #eae9e4; /* paper */
+  }
+}
+
+@layer utilities {
+  /* Overlay scrollbars, tinted navy at low opacity */
+  .scrollbar-mac {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(3, 32, 50, 0.22) transparent;
+  }
+  .scrollbar-mac::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scrollbar-mac::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scrollbar-mac::-webkit-scrollbar-thumb {
+    background-color: rgba(3, 32, 50, 0.2);
+    border-radius: 999px;
+    border: 2px solid transparent;
+    background-clip: content-box;
+  }
+  .scrollbar-mac::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(3, 32, 50, 0.35);
+  }
+
+  /* Hide the side rails' scrollbars — the columns scroll, but showing a bar
+     on a floating widget stack looks like a mistake. */
+  .rail-scroll {
+    scrollbar-width: none;
+  }
+  .rail-scroll::-webkit-scrollbar {
+    display: none;
+  }
+}
