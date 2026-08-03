@@ -9,23 +9,66 @@
   "totalMedium": 2095,
   "hardSolved": 2,
   "totalHard": 960,
-  "submissionsLastYear": 20,
-  "activeDays": 6,
-  "maxStreak": 2,
-  "updatedAt": "2026-08-02",
+  "submissionsLastYear": 0,
+  "activeDays": 0,
+  "maxStreak": 0,
+  "updatedAt": "2026-08-03",
   "recentSolved": [
-    { "title": "Two Sum", "when": "2 months ago" },
-    { "title": "Climbing Stairs", "when": "5 months ago" },
-    { "title": "Single Number", "when": "5 months ago" },
-    { "title": "Find All Numbers Disappeared in an Array", "when": "6 months ago" },
-    { "title": "Missing Number", "when": "6 months ago" }
+    {
+      "title": "Two Sum",
+      "when": "2 months ago"
+    },
+    {
+      "title": "Climbing Stairs",
+      "when": "4 months ago"
+    },
+    {
+      "title": "Single Number",
+      "when": "5 months ago"
+    },
+    {
+      "title": "Find All Numbers Disappeared in an Array",
+      "when": "5 months ago"
+    },
+    {
+      "title": "Missing Number",
+      "when": "5 months ago"
+    }
   ],
   "languages": [
-    { "name": "Python3", "solved": 32 },
-    { "name": "Python", "solved": 1 }
+    {
+      "name": "Python3",
+      "solved": 32
+    },
+    {
+      "name": "Python",
+      "solved": 1
+    }
   ],
   "skills": [
-    { "name": "Backtracking", "count": 2 },
-    { "name": "Quickselect", "count": 1 }
+    {
+      "name": "Array",
+      "count": 20
+    },
+    {
+      "name": "Hash Table",
+      "count": 11
+    },
+    {
+      "name": "String",
+      "count": 9
+    },
+    {
+      "name": "Math",
+      "count": 7
+    },
+    {
+      "name": "Sorting",
+      "count": 6
+    },
+    {
+      "name": "Two Pointers",
+      "count": 5
+    }
   ]
 }
