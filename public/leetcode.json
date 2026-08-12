@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3442168,
+  "ranking": 3445108,
   "totalSolved": 32,
   "totalQuestions": 4018,
   "easySolved": 22,
@@ -12,7 +12,7 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-08-12",
   "recentSolved": [
     {
       "title": "Two Sum",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Missing Number",
-      "when": "5 months ago"
+      "when": "6 months ago"
     }
   ],
   "languages": [
