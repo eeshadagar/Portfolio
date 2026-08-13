@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3445108,
+  "ranking": 3448091,
   "totalSolved": 32,
   "totalQuestions": 4018,
   "easySolved": 22,
@@ -12,7 +12,7 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-13",
   "recentSolved": [
     {
       "title": "Two Sum",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Find All Numbers Disappeared in an Array",
-      "when": "5 months ago"
+      "when": "6 months ago"
     },
     {
       "title": "Missing Number",
