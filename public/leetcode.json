@@ -1,18 +1,18 @@
 {
   "username": "eeshadagar",
-  "ranking": 3448091,
+  "ranking": 3450913,
   "totalSolved": 32,
-  "totalQuestions": 4018,
+  "totalQuestions": 4019,
   "easySolved": 22,
   "totalEasy": 958,
   "mediumSolved": 8,
-  "totalMedium": 2098,
+  "totalMedium": 2099,
   "hardSolved": 2,
   "totalHard": 962,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "recentSolved": [
     {
       "title": "Two Sum",
