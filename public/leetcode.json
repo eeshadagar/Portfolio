@@ -1,19 +1,31 @@
 {
   "username": "eeshadagar",
-  "ranking": 3468502,
-  "totalSolved": 32,
+  "ranking": 3358343,
+  "totalSolved": 34,
   "totalQuestions": 4029,
   "easySolved": 22,
   "totalEasy": 960,
-  "mediumSolved": 8,
+  "mediumSolved": 10,
   "totalMedium": 2103,
   "hardSolved": 2,
   "totalHard": 966,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-21",
+  "updatedAt": "2026-08-22",
   "recentSolved": [
+    {
+      "title": "3Sum Closest",
+      "when": "today"
+    },
+    {
+      "title": "3Sum",
+      "when": "today"
+    },
+    {
+      "title": "Two Sum II - Input Array Is Sorted",
+      "when": "today"
+    },
     {
       "title": "Two Sum",
       "when": "2 months ago"
@@ -21,24 +33,12 @@
     {
       "title": "Climbing Stairs",
       "when": "5 months ago"
-    },
-    {
-      "title": "Single Number",
-      "when": "5 months ago"
-    },
-    {
-      "title": "Find All Numbers Disappeared in an Array",
-      "when": "6 months ago"
-    },
-    {
-      "title": "Missing Number",
-      "when": "6 months ago"
     }
   ],
   "languages": [
     {
       "name": "Python3",
-      "solved": 32
+      "solved": 34
     },
     {
       "name": "Python",
@@ -48,7 +48,7 @@
   "skills": [
     {
       "name": "Array",
-      "count": 20
+      "count": 22
     },
     {
       "name": "Hash Table",
@@ -59,16 +59,16 @@
       "count": 9
     },
     {
+      "name": "Sorting",
+      "count": 8
+    },
+    {
       "name": "Math",
       "count": 7
     },
     {
-      "name": "Sorting",
-      "count": 6
-    },
-    {
       "name": "Two Pointers",
-      "count": 5
+      "count": 7
     }
   ]
 }
