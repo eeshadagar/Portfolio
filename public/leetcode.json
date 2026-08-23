@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3358343,
+  "ranking": 3360380,
   "totalSolved": 34,
   "totalQuestions": 4029,
   "easySolved": 22,
@@ -12,19 +12,19 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-22",
+  "updatedAt": "2026-08-23",
   "recentSolved": [
     {
       "title": "3Sum Closest",
-      "when": "today"
+      "when": "yesterday"
     },
     {
       "title": "3Sum",
-      "when": "today"
+      "when": "yesterday"
     },
     {
       "title": "Two Sum II - Input Array Is Sorted",
-      "when": "today"
+      "when": "yesterday"
     },
     {
       "title": "Two Sum",
