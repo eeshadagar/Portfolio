@@ -1,44 +1,44 @@
 {
   "username": "eeshadagar",
-  "ranking": 3360380,
-  "totalSolved": 34,
-  "totalQuestions": 4029,
+  "ranking": 3309244,
+  "totalSolved": 35,
+  "totalQuestions": 4033,
   "easySolved": 22,
-  "totalEasy": 960,
-  "mediumSolved": 10,
-  "totalMedium": 2103,
+  "totalEasy": 961,
+  "mediumSolved": 11,
+  "totalMedium": 2105,
   "hardSolved": 2,
-  "totalHard": 966,
+  "totalHard": 967,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "recentSolved": [
     {
+      "title": "Sort Colors",
+      "when": "today"
+    },
+    {
       "title": "3Sum Closest",
-      "when": "yesterday"
+      "when": "2 days ago"
     },
     {
       "title": "3Sum",
-      "when": "yesterday"
+      "when": "2 days ago"
     },
     {
       "title": "Two Sum II - Input Array Is Sorted",
-      "when": "yesterday"
+      "when": "2 days ago"
     },
     {
       "title": "Two Sum",
       "when": "2 months ago"
-    },
-    {
-      "title": "Climbing Stairs",
-      "when": "5 months ago"
     }
   ],
   "languages": [
     {
       "name": "Python3",
-      "solved": 34
+      "solved": 35
     },
     {
       "name": "Python",
@@ -48,7 +48,7 @@
   "skills": [
     {
       "name": "Array",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Hash Table",
@@ -60,14 +60,14 @@
     },
     {
       "name": "Sorting",
+      "count": 9
+    },
+    {
+      "name": "Two Pointers",
       "count": 8
     },
     {
       "name": "Math",
-      "count": 7
-    },
-    {
-      "name": "Two Pointers",
       "count": 7
     }
   ]
