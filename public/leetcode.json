@@ -1,44 +1,44 @@
 {
   "username": "eeshadagar",
-  "ranking": 3313840,
-  "totalSolved": 35,
+  "ranking": 3266239,
+  "totalSolved": 36,
   "totalQuestions": 4033,
   "easySolved": 22,
   "totalEasy": 961,
-  "mediumSolved": 11,
+  "mediumSolved": 12,
   "totalMedium": 2105,
   "hardSolved": 2,
   "totalHard": 967,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-26",
+  "updatedAt": "2026-08-27",
   "recentSolved": [
     {
+      "title": "Minimum Size Subarray Sum",
+      "when": "yesterday"
+    },
+    {
       "title": "Sort Colors",
-      "when": "2 days ago"
+      "when": "4 days ago"
     },
     {
       "title": "3Sum Closest",
-      "when": "4 days ago"
+      "when": "6 days ago"
     },
     {
       "title": "3Sum",
-      "when": "4 days ago"
+      "when": "6 days ago"
     },
     {
       "title": "Two Sum II - Input Array Is Sorted",
-      "when": "4 days ago"
-    },
-    {
-      "title": "Two Sum",
-      "when": "2 months ago"
+      "when": "6 days ago"
     }
   ],
   "languages": [
     {
       "name": "Python3",
-      "solved": 35
+      "solved": 36
     },
     {
       "name": "Python",
@@ -48,7 +48,7 @@
   "skills": [
     {
       "name": "Array",
-      "count": 23
+      "count": 24
     },
     {
       "name": "Hash Table",
