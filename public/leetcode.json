@@ -12,7 +12,7 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-28",
+  "updatedAt": "2026-08-29",
   "recentSolved": [
     {
       "title": "Minimum Size Subarray Sum",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Sort Colors",
-      "when": "5 days ago"
+      "when": "6 days ago"
     },
     {
       "title": "3Sum Closest",
@@ -28,11 +28,11 @@
     },
     {
       "title": "3Sum",
-      "when": "7 days ago"
+      "when": "8 days ago"
     },
     {
       "title": "Two Sum II - Input Array Is Sorted",
-      "when": "7 days ago"
+      "when": "8 days ago"
     }
   ],
   "languages": [
