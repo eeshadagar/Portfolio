@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3271886,
+  "ranking": 3273926,
   "totalSolved": 36,
   "totalQuestions": 4041,
   "easySolved": 22,
@@ -12,19 +12,19 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-01",
   "recentSolved": [
     {
       "title": "Minimum Size Subarray Sum",
-      "when": "4 days ago"
+      "when": "5 days ago"
     },
     {
       "title": "Sort Colors",
-      "when": "7 days ago"
+      "when": "8 days ago"
     },
     {
       "title": "3Sum Closest",
-      "when": "9 days ago"
+      "when": "10 days ago"
     },
     {
       "title": "3Sum",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Two Sum II - Input Array Is Sorted",
-      "when": "10 days ago"
+      "when": "11 days ago"
     }
   ],
   "languages": [
