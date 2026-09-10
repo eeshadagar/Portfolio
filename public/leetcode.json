@@ -1,44 +1,44 @@
 {
   "username": "eeshadagar",
-  "ranking": 3291055,
-  "totalSolved": 37,
+  "ranking": 3243633,
+  "totalSolved": 38,
   "totalQuestions": 4047,
   "easySolved": 22,
   "totalEasy": 963,
-  "mediumSolved": 13,
+  "mediumSolved": 14,
   "totalMedium": 2111,
   "hardSolved": 2,
   "totalHard": 973,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "recentSolved": [
     {
-      "title": "Fruit Into Baskets",
+      "title": "Longest Substring Without Repeating Characters",
       "when": "today"
     },
     {
+      "title": "Fruit Into Baskets",
+      "when": "yesterday"
+    },
+    {
       "title": "Minimum Size Subarray Sum",
-      "when": "13 days ago"
+      "when": "14 days ago"
     },
     {
       "title": "Sort Colors",
-      "when": "16 days ago"
+      "when": "17 days ago"
     },
     {
       "title": "3Sum Closest",
-      "when": "18 days ago"
-    },
-    {
-      "title": "3Sum",
-      "when": "18 days ago"
+      "when": "19 days ago"
     }
   ],
   "languages": [
     {
       "name": "Python3",
-      "solved": 37
+      "solved": 38
     },
     {
       "name": "Python",
@@ -52,11 +52,11 @@
     },
     {
       "name": "Hash Table",
-      "count": 12
+      "count": 13
     },
     {
       "name": "String",
-      "count": 9
+      "count": 10
     },
     {
       "name": "Sorting",
