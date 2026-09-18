@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3209236,
+  "ranking": 3211450,
   "totalSolved": 38,
   "totalQuestions": 4055,
   "easySolved": 22,
@@ -12,27 +12,27 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-18",
   "recentSolved": [
     {
       "title": "Longest Substring Without Repeating Characters",
-      "when": "7 days ago"
-    },
-    {
-      "title": "Fruit Into Baskets",
       "when": "8 days ago"
     },
     {
+      "title": "Fruit Into Baskets",
+      "when": "9 days ago"
+    },
+    {
       "title": "Minimum Size Subarray Sum",
-      "when": "21 days ago"
+      "when": "22 days ago"
     },
     {
       "title": "Sort Colors",
-      "when": "24 days ago"
+      "when": "25 days ago"
     },
     {
       "title": "3Sum Closest",
-      "when": "26 days ago"
+      "when": "27 days ago"
     }
   ],
   "languages": [
