@@ -1,26 +1,26 @@
 {
   "username": "eeshadagar",
-  "ranking": 3243306,
+  "ranking": 3245059,
   "totalSolved": 38,
-  "totalQuestions": 4069,
+  "totalQuestions": 4073,
   "easySolved": 22,
-  "totalEasy": 968,
+  "totalEasy": 969,
   "mediumSolved": 14,
-  "totalMedium": 2122,
+  "totalMedium": 2124,
   "hardSolved": 2,
-  "totalHard": 979,
+  "totalHard": 980,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "recentSolved": [
     {
       "title": "Longest Substring Without Repeating Characters",
-      "when": "23 days ago"
+      "when": "24 days ago"
     },
     {
       "title": "Fruit Into Baskets",
-      "when": "24 days ago"
+      "when": "25 days ago"
     },
     {
       "title": "Minimum Size Subarray Sum",
