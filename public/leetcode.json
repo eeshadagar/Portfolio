@@ -1,18 +1,18 @@
 {
   "username": "eeshadagar",
-  "ranking": 3274168,
+  "ranking": 3275709,
   "totalSolved": 38,
-  "totalQuestions": 4086,
+  "totalQuestions": 4087,
   "easySolved": 22,
   "totalEasy": 972,
   "mediumSolved": 14,
-  "totalMedium": 2130,
+  "totalMedium": 2131,
   "hardSolved": 2,
   "totalHard": 984,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "recentSolved": [
     {
       "title": "Longest Substring Without Repeating Characters",
@@ -32,7 +32,7 @@
     },
     {
       "title": "3Sum Closest",
-      "when": "1 month ago"
+      "when": "2 months ago"
     }
   ],
   "languages": [
