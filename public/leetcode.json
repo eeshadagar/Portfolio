@@ -1,18 +1,18 @@
 {
   "username": "eeshadagar",
-  "ranking": 3303663,
+  "ranking": 3304559,
   "totalSolved": 38,
-  "totalQuestions": 4109,
+  "totalQuestions": 4110,
   "easySolved": 22,
   "totalEasy": 975,
   "mediumSolved": 14,
-  "totalMedium": 2145,
+  "totalMedium": 2146,
   "hardSolved": 2,
   "totalHard": 989,
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "recentSolved": [
     {
       "title": "Longest Substring Without Repeating Characters",
