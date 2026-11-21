@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3316599,
+  "ranking": 3317699,
   "totalSolved": 38,
   "totalQuestions": 4115,
   "easySolved": 22,
@@ -12,7 +12,7 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "recentSolved": [
     {
       "title": "Longest Substring Without Repeating Characters",
@@ -28,7 +28,7 @@
     },
     {
       "title": "Sort Colors",
-      "when": "2 months ago"
+      "when": "3 months ago"
     },
     {
       "title": "3Sum Closest",
