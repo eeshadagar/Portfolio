@@ -1,6 +1,6 @@
 {
   "username": "eeshadagar",
-  "ranking": 3319553,
+  "ranking": 3321799,
   "totalSolved": 38,
   "totalQuestions": 4123,
   "easySolved": 22,
@@ -12,7 +12,7 @@
   "submissionsLastYear": 0,
   "activeDays": 0,
   "maxStreak": 0,
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-24",
   "recentSolved": [
     {
       "title": "Longest Substring Without Repeating Characters",
@@ -24,7 +24,7 @@
     },
     {
       "title": "Minimum Size Subarray Sum",
-      "when": "2 months ago"
+      "when": "3 months ago"
     },
     {
       "title": "Sort Colors",
